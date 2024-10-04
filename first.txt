@@ -3,3 +3,4 @@ Gitの練習
 git add
 got commit
 git rm
+git status
